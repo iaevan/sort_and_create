@@ -1,4 +1,4 @@
-with open("co.txt", "r") as c:
+with open("country list.txt", "r") as c:
     l = c.readlines()
 alp = ("ABCDEFGHIJKLMNOPQRSTUVWXYZ")
 
